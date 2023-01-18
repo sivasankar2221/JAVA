@@ -30,13 +30,7 @@ class Spiralmatrix {
          {
            System.out.println(a[i][colstart]+" ");  
          }
-         colstart+=1;
-         
-     }
-    
-                    
-                    
-                    
-                    
+         colstart+=1;   
+     }                    
     }
 }
